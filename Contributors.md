@@ -75,14 +75,12 @@
 - [Peace Alawode](https://github.com/Code-PeaceA)
 - [Angela Fisher](https://github.com/angelajfisher)
 - [Abhiyanshu ](https://github.com/abhiyanshuthefighter)
-
 - [Patrick Seitz](https://github.com/pat8901)
 - [Ahnaf Tahmid Zaman](https://github.com/AHNAF14924)
 - [Noya David](https://github.com/Sanober494u)
 - [Ashley Mao](https://github.com/ashley1203)
 - [Sanober Sarfaraz Ahmed](https://github.com/Sanober494u)
 [PL](https://github.com/PyaeLinn01)
-
 - [Devora Ger](https://github.com/Devora-Ger)
 - [Elvira Ivanova](https://github.com/elviraIv)
 - [Antonella Di Stefano] (https://github.com/antodis79)
@@ -259,7 +257,7 @@
 - [Gabriele Pontevolpe]
 - [Itay Mortov](https://github.com/itaymortov)
 - [Yasser] (https://github.com/YasserDante)
-Brent L
+- [Brent L]
 - [Leonardo Vizeu](https://github.com/leovizeu)
 - [hzys]
 - [deep gawande]
